@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-UK"
 site_theme               : "default"
-title                    : "Jing Chen Personal Website"
+title                    : "Jing Chen's Personal Website"
 title_separator          : "-"
 name                     : &name "Jing Chen"
 description              : &description "personal description"
