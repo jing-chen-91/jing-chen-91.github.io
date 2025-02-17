@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-UK"
 site_theme               : "default"
-title                    : "Jing Chen / Ph.D"
+title                    : "Jing Chen Personal Website"
 title_separator          : "-"
 name                     : &name "Jing Chen"
 description              : &description "personal description"
@@ -22,9 +22,9 @@ repository               : "jing-chen-91/jing-chen-91.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "1739638528979.jpg"
   name             : "Jing Chen"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Research Associate at The Manchester Metropolitan University, specializing in Design for People Liveing with Dementia, Health and Well-being, Mental Health, and Co-Design"
   location         : "UK"
   employer         : "Manchester Metropolitan University"
@@ -37,7 +37,6 @@ author:
   researchgate     : "https://www.researchgate.net/profile/Jing-Chen-296"
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
